@@ -141,3 +141,11 @@ html {
   height: 100vh;
   background: #139337;
 }
+
+.info-text {
+  font-size: 1.3rem;
+}
+
+.email {
+  font-style: italic;
+}

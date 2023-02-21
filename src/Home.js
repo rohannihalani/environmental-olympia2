@@ -21,16 +21,29 @@ function Home() {
       <div className="bottom" id="bottomID">
         <section className="info">
           <article>
-            <h2>Question 1?</h2>
-            <p>Answer</p>
+            <h2>What is the Environmental Olympia?</h2>
+            <p className="info-text">
+              The Environmental Olympia is a competition run by the
+              environmental advocacy group in the Dublin Mayor's Council. Our
+              goal is to help spread environmental awareness in our community
+              and help our local environment. The Olympia will have three
+              different stages: two testing stages, then one presentation stage,
+              where a participant will present a solution they have for helping
+              their local environment.
+            </p>
           </article>
           <article>
-            <h2>Question 2?</h2>
-            <p>Answer</p>
+            <h2>Who can participate in the Environmental Olympia?</h2>
+            <p className="info-text">Anyone in grades K-12!</p>
           </article>
           <article>
-            <h2>Question 3?</h2>
-            <p>Answer</p>
+            <h2>Who should I contact if I have any more questions?</h2>
+            <p className="info-text">
+              Feel free to email{" "}
+              <a className="email">dmcenvironmentaladvocacy@gmail.com</a> if you
+              have any questions about the Environmental Olympia, or just the
+              environment in general!
+            </p>
           </article>
         </section>
         <section className="footer-section">
