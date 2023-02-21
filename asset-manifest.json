@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/environmental-olympia/static/css/main.e3fe4226.css",
+    "main.js": "/environmental-olympia/static/js/main.adc83015.js",
+    "index.html": "/environmental-olympia/index.html",
+    "main.e3fe4226.css.map": "/environmental-olympia/static/css/main.e3fe4226.css.map",
+    "main.adc83015.js.map": "/environmental-olympia/static/js/main.adc83015.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e3fe4226.css",
+    "static/js/main.adc83015.js"
+  ]
+}
